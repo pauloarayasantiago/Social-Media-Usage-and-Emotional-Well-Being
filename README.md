@@ -1,4 +1,4 @@
-# Social Media Usage and Emotional Well-being Analysis 🧠
+# Social Media Usage and Emotional Well-being Analysis 
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FLAML](https://img.shields.io/badge/FLAML-1.2.2-orange.svg)](https://microsoft.github.io/FLAML/)
